@@ -1,0 +1,45 @@
+﻿<Page x:Class="PraktLaba5.ToursPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PraktLaba5"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ToursPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="ToursDgr" Grid.ColumnSpan="2" SelectionChanged="ToursDgr_SelectionChanged"/>
+        <Grid Grid.Row="4" Grid.Column="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Данные для заполнения" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox x:Name="TourNameTbx" Grid.Row="1" Grid.ColumnSpan="3" Text="Введите название тура"/>
+            <ComboBox x:Name="TourTypeComboBox" Grid.Row="2" Grid.ColumnSpan="3"/>
+            <ComboBox x:Name="DestinationComboBox" Grid.Row="3" Grid.ColumnSpan="3"/>
+            <Button Grid.Column="0" Grid.Row="9" Content="Добавить" Click="Insert_Click"/>
+            <Button Grid.Column="1" Grid.Row="9" Content="Изменить" Click="Update_Click"/>
+            <Button Grid.Column="2" Grid.Row="9" Content="Удалить" Click="Delete_Click"/>
+        </Grid>
+    </Grid>
+</Page>

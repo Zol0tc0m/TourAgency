@@ -1,0 +1,134 @@
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\RolePage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\App.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.cache
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.lref
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe.config
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.pdb
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\RolePage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.g.resources
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.Properties.Resources.resources
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.exe
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.pdb
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.g.cs
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.baml
+C:\Users\User\source\repos\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe.config
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.pdb
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.AssemblyReference.cache
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\RolePage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\App.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.cache
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.lref
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\RolePage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.g.resources
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.Properties.Resources.resources
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.GenerateResource.cache
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.CoreCompileInputs.cache
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.exe
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.pdb
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\BookingPayPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\BookingPayPage.baml
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PayChecksPage.g.cs
+C:\Users\Sveklich\Desktop\PraktLaba5\PraktLaba5\obj\Debug\PayChecksPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe.config
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.exe
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\bin\Debug\PraktLaba5.pdb
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\BookingPayPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PayChecksPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\RolePage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\App.g.cs
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.cache
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5_MarkupCompile.lref
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\AgentWindow.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\BookingPayPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\BookingsPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ClientsPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\DestinationPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\DirWindow.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\EmployeesPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\GuidesPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\LoginDataPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ManagerWindow.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PayChecksPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\RolePage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ServicesPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\ToursPage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\TourTypePage.baml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.g.resources
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.Properties.Resources.resources
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.exe
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.pdb
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\PraktLaba5 (1)\PraktLaba5\PraktLaba5\obj\Debug\PraktLaba5.csproj.CopyComplete

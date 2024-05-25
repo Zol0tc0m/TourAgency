@@ -1,0 +1,30 @@
+﻿<Window x:Class="PraktLaba5.DirWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PraktLaba5"
+        mc:Ignorable="d"
+        Title="DirWindow" Height="450" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="57*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Роли" Click="EmpRole_Click"/>
+        <Button Grid.Column="1" Content="Сотрудники" Click="Employees_Click"/>
+        <Button Grid.Column="2" Content="Данные для авторизации" Click="LoginData_Click"/>
+        <Button Grid.Column="3" Content="Гиды" Click="Guides_Click"/>
+        <Button Grid.Column="4" Content="Услуги" Click="Services_Click"/>
+        <Button Grid.Column="5" Content="Выход к авторизации" Click="Exit_Click"/>
+        <Frame x:Name="DirFrame" Grid.Row="1" Grid.ColumnSpan="5"/>
+    </Grid>
+</Window>

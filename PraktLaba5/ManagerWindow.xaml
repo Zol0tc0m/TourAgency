@@ -1,0 +1,30 @@
+﻿<Window x:Class="PraktLaba5.ManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PraktLaba5"
+        mc:Ignorable="d"
+        Title="ManagerWindow" Height="450" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="57*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Туры" Click="Tours_Click"/>
+        <Button Grid.Column="1" Content="Тип тура" Click="TourType_Click"/>
+        <Button Grid.Column="2" Content="Место назначания" Click="Destination_Click"/>
+        <Button Grid.Column="3" Content="Клиенты" Click="Clients_Click"/>
+        <Button Grid.Column="4" Content="Бронирования" Click="Bookings_Click"/>
+        <Button Grid.Column="5" Content="Выход к авторизации" Click="Exit_Click"/>
+        <Frame x:Name="ManagerFrame" Grid.Row="1" Grid.ColumnSpan="5"/>
+    </Grid>
+</Window>
