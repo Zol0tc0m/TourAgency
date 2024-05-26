@@ -53,7 +53,7 @@ namespace PraktLaba5
             }
             else
             {
-                MessageBox.Show("Все текстовые поля должны быть заполнены верным типом данных!");
+                MessageBox.Show("Все текстовые поля должны быть заполнены и заполнены верным типом данных!");
             }
             TourTypeDgr.ItemsSource = type.GetData();
         }
@@ -67,7 +67,7 @@ namespace PraktLaba5
             }
             else
             {
-                MessageBox.Show("Все текстовые поля должны быть заполнены верным типом данных!");
+                MessageBox.Show("Все текстовые поля должны быть заполнены и заполнены верным типом данных!");
             }
             TourTypeDgr.ItemsSource = type.GetData();
         }
