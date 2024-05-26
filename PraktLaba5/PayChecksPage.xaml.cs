@@ -40,7 +40,7 @@ namespace PraktLaba5
             payments.DeleteQuery(Convert.ToInt32(id));
             PayChecksDgr.ItemsSource = payments.GetData();
         }
-        private void Unload_Click(object sender, RoutedEventArgs e)
+        private void Save_Click(object sender, RoutedEventArgs e)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "Текстовый документ (*.txt)|*.txt|Все файлы (*.*)|*.*";
