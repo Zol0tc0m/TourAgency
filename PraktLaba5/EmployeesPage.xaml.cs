@@ -56,7 +56,7 @@ namespace PraktLaba5
             }
             else
             {
-                MessageBox.Show("Все текстовые поля должны быть заполнены верным типом данных!");
+                MessageBox.Show("Все текстовые поля должны быть заполнены и заполнены верным типом данных!");
             }
             EmployeesDgr.ItemsSource = employees.GetData();
         }
